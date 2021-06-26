@@ -3,12 +3,13 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Chua;Esther;;;
 FN: Esther  Chua Pei Wei
-ORG:Monash University Malaysia;
-TITLE:Project Leader\nSouth East Asia Community Observatory (SEACO)
-EMAIL;type=INTERNET;type=WORK;type=pref:chua.peiwei@monash.edu
-TEL;type=WORK;type=VOICE:+60 1118722900
+ORG:UNDP;
+TITLE:Operations Assistant
+EMAIL;type=INTERNET;type=WORK;type=pref:pei.wei.chua@undp.org
+TEL;type=WORK;type=VOICE:+60 386896036
+TEL;type=MOBILE;type=VOICE:+60 1157877518
 item1.URL;type=pref:twitter.com/estherchuapw
 item1.X-ABLabel:_$!<Twitter>!$_
-item2.URL;type=pref:seaco.asia
+item2.URL;type=pref:my.undp.org
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
